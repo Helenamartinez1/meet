@@ -1,4 +1,4 @@
 
 const modelName = "lisalips"
 
-const link = "https://v.ht/Lamhg"
+const link = "https://go.ly/zuPNL"
